@@ -1,12 +1,13 @@
 # Division sin dividir
 
 ## Lógica
-La multiplicación es una suma recurrente , o sea que la multiplicación de a *b es igual a la suma de (a+a) b veces.
+La division es una resta recurrente , o sea la resta de `a - b` mientras `a` sea mayor o igual a `b`
 
 ### Ejemplo
 
-```
-2*3 = 2+2+2
+```py
+6/2 ===  6>=2 (6-2), 4 >=2 (4-2) , 2>= 2 (2-2)
+6/2 ===  1        +      1    +         1
 
 ```
 
@@ -17,10 +18,11 @@ La multiplicación es una suma recurrente , o sea que la multiplicación de a *b
  * @param {number} a
  * @param {number} b
  */
-function Multiply(a, b) {
+function Div(a, b) {
   let value = 0;
-  for (let i = 0; i < a; i++) {
-    value += b;
+  while (a >= b) {
+    value++;
+    a -= b;
   }
   return value;
 }

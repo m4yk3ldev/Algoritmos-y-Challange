@@ -4,10 +4,11 @@
  */
 function Div(a, b) {
   let value = 0;
-  for (let i = 0; i < a; i++) {
-    value -= b;
+  while (a >= b) {
+    value++;
+    a -= b;
   }
   return value;
 }
 
-console.log(Div(6, 3)); //->
+console.log(Div(18, 3)); //->
