@@ -25,3 +25,12 @@ function Multiply(a, b) {
   return value;
 }
 ```
+
+### Ejemplo en Python
+```python
+def multiply(a: int, b: int):
+    value = 0
+    for i in range(b):
+        value += a
+    return value
+```
