@@ -15,7 +15,7 @@ function bubbleSort(arr) {
     for (let j = 0; j < len - i; j++) {
       // Revisar si el elemento de la derecha es mayor al de la izquierda
       if (arr[j] > arr[j + 1]) {
-        // Si cumple la condición se intercambian los calores del arr[j] pasarlo a arr[j+1] y viceversa
+        // Si cumple la condición se intercambian los valores del arr[j] pasarlo a arr[j+1] y viceversa
         let tmp = arr[j];
         arr[j] = arr[j + 1];
         arr[j + 1] = tmp;
