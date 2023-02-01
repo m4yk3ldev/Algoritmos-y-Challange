@@ -1,1 +1,1 @@
-# AlgoritmosJS
+# Algoritmos
