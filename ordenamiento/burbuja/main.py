@@ -18,4 +18,9 @@ def bubbleSort(arr):
     return arr
 
 
+def sortedArray(arr):
+    return sorted(arr)
+
+
 print(bubbleSort([2, 7, 1, 4, 3, 5, 0, 8, 2, -1, 2]))
+print(sortedArray([2, 7, 1, 4, 3, 5, 0, 8, 2, -1, 2]))
