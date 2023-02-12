@@ -8,7 +8,8 @@ function Div(a, b) {
     value++;
     a -= b;
   }
+  console.log(value);
   return value;
 }
 
-console.log(Div(18, 3)); //->
+Div(18, 3); //->

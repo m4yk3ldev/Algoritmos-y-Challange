@@ -1,4 +1,4 @@
-# Advent JS 2022 - Mis Respuetas
+# Advent JS 2022 - Mis Respuestas
 
 [![Build Status](https://app.travis-ci.com/m4yk3ldev/adventjsDevSoluctions.svg?branch=main)](https://app.travis-ci.com/m4yk3ldev/adventjsDevSoluctions)
 
@@ -19,6 +19,7 @@
 | <img src="https://adventjs.dev/challenges-2022/9.svg" width="50" height="50" />  |           [9- Las locas luces de Navidad](https://adventjs.dev/challenges/2022/9)            |     F      |  [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/9/9.js)  |  300   |
 | <img src="https://adventjs.dev/challenges-2022/10.svg" width="50" height="50" /> |       [10- El salto del trineo de Papa Noel](https://adventjs.dev/challenges/2022/10)        |     M      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/10/10.js) |  160   |
 | <img src="https://adventjs.dev/challenges-2022/11.svg" width="50" height="50" /> |           [11- Papá Noel es Scrum Master](https://adventjs.dev/challenges/2022/11)           |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/11/11.js) |  220   |
+| <img src="https://adventjs.dev/challenges-2022/12.svg" width="50" height="50" /> |           [12- Trineos eléctricos, ¡guau!](https://adventjs.dev/challenges/2022/11)           |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/12/12.js) |  260   |
 
 **Dificultad**: (F) Fácil (M) Media (D) Difícil (MD) Muy Difícil
 
