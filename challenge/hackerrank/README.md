@@ -1,1 +1,1 @@
-# 30-Days-of-Code---HanckerRank
+# 30-Days-of-Code---HackRank

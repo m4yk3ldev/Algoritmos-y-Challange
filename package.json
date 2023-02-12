@@ -1,12 +1,18 @@
 {
-  "name": "Algoritmos",
+  "name": "algoritmos-y-challengers",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repositorios de algoritmos y challengers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "challengers",
+    "algoritmos"
+  ],
+  "author": "Maykel Arias Torres",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "^17.0.0"
+  }
 }
