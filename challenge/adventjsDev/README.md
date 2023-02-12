@@ -19,31 +19,7 @@
 | <img src="https://adventjs.dev/challenges-2022/9.svg" width="50" height="50" />  |           [9- Las locas luces de Navidad](https://adventjs.dev/challenges/2022/9)            |     F      |  [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/9/9.js)  |  300   |
 | <img src="https://adventjs.dev/challenges-2022/10.svg" width="50" height="50" /> |       [10- El salto del trineo de Papa Noel](https://adventjs.dev/challenges/2022/10)        |     M      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/10/10.js) |  160   |
 | <img src="https://adventjs.dev/challenges-2022/11.svg" width="50" height="50" /> |           [11- Papá Noel es Scrum Master](https://adventjs.dev/challenges/2022/11)           |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/11/11.js) |  220   |
-| <img src="https://adventjs.dev/challenges-2022/12.svg" width="50" height="50" /> |           [12- Trineos eléctricos, ¡guau!](https://adventjs.dev/challenges/2022/11)           |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/12/12.js) |  260   |
+| <img src="https://adventjs.dev/challenges-2022/12.svg" width="50" height="50" /> |           [12- Trineos eléctricos, ¡guau!](https://adventjs.dev/challenges/2022/12)           |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/12/12.js) |  260   |
+| <img src="https://adventjs.dev/challenges-2022/13.svg" width="50" height="50" /> |           [13- Backup de los archivos de Papá Noel](https://adventjs.dev/challenges/2022/13)           |     D      | [Ver](https://github.com/m4yk3ldev/adventjsDevSoluctions/blob/main/retos/13/13.js) |  260   |
 
 **Dificultad**: (F) Fácil (M) Media (D) Difícil (MD) Muy Difícil
-
-## Instalación
-
-Utilizando `pnpm`, en caso de no tenerlo instalado:
-
-```bash
-npm install --global pnpm
-```
-
-Instala Jest para las pruebas con:
-
-```bash
-pnpm install
-```
-
-## Pruebas con Jest
-
-Puedes comprobar los retos usando en tu terminal el comando `pnpm test`.
-
-```bash
-pnpm test # Para correr los pruebas
-
-pnpm test:n # n siendo el numero del reto, por ejemplo
-pnpm test:1 # Correra el test del reto 1
-```
